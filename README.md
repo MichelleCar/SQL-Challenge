@@ -41,7 +41,7 @@ Data Engineering is essentially about processing data depending on our needs. Co
 
 Using our ERD to create tables for to store each of our CSV files, I was able to query several aspects of the data and examine its relationship.
 
-Link: https://github.com/MichelleCar/SQL-Challenge/blob/8f8e838ccd1cf731a343ffff2afc53c76ea94571/EmployeeSQL/Employees.sql 
+Link to SQL code: https://github.com/MichelleCar/SQL-Challenge/blob/8f8e838ccd1cf731a343ffff2afc53c76ea94571/EmployeeSQL/Employees.sql 
 
 ### Data Analysis
 SQL (using pgAdmin) is accessible, can build complex models and analyses quickly, and offers a deep ability for data manipulation.  The ability to give SQL simple commands in English for complex procedures meant that I could quickly combine data (through JOINS), search for specific data (using WHERE or LIKE), and quickly draw conclusions.  SQL is an excellent tool to build data warehouses thanks to easy accessibility, clear organization, and ability to interact effectively.
